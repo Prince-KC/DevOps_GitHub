@@ -2,3 +2,4 @@ hello world
 How are you
 This is a txt file
 I am learning git and github
+Git is a version control system. That means it tracks all the changes made to the repo.
