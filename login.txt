@@ -1,0 +1,4 @@
+this is a login file
+
+id: abc
+password: def
